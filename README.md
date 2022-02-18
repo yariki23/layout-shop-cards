@@ -1,6 +1,6 @@
-# Startup landing template
+# Product cards for shop 
 
-### [Site link](https://yariki23.github.io/foundation-layout/)
+### [Site link](https://yariki23.github.io/layout-shop-cards/)
 
 Layout supports mobile (up-to-322) and tablet (up-to-750) and desktop versions
 
